@@ -1,5 +1,5 @@
 package dep
 
 func Test() string {
-	return "v1"
+	return "v2"
 }
