@@ -1,3 +1,3 @@
-module github.com/skarlso/dependency/v2
+module github.com/skarlso/dependency
 
 go 1.21.2
