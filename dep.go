@@ -1,5 +1,5 @@
 package dep
 
-func Test() string {
+func Test2() string {
 	return "v2"
 }
